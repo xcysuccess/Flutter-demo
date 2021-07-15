@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>搜索框icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="搜索框icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon/功能/搜索">
+            <g id="Icon/搜索">
+                <rect id="矩形" fill="#D8D8D8" opacity="0" x="0" y="0" width="32" height="32"></rect>
+                <path d="M23.0378352,23.1811447 C27.5288645,18.6901154 27.5288645,11.4087181 23.0378352,6.91768877 C18.5468058,2.42665941 11.2654086,2.42665941 6.7743792,6.91768877 C2.28334985,11.4087181 2.28334985,18.6901154 6.7743792,23.1811447 C11.2654086,27.6721741 18.5468058,27.6721741 23.0378352,23.1811447 Z M23.3913886,23.5346981 L28.341136,28.4844456" id="形状结合" stroke-opacity="0.45" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

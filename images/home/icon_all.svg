@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>画板@3x</title>
+    <desc>Created with Sketch.</desc>
+    <g id="画板" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="全部">
+            <rect id="矩形" x="0" y="0" width="32" height="32"></rect>
+            <path d="M13.2125341,18.7704918 L5,18.7704918 L5,27 L13.2125341,27 L13.2125341,18.7704918 Z M27,18.7704918 L18.7874659,18.7704918 L18.7874659,27 L27,27 L27,18.7704918 Z M13.2125341,5 L5,5 L5,13.2295082 L13.2125341,13.2295082 L13.2125341,5 Z M27,5 L18.7874659,5 L18.7874659,13.2295082 L27,13.2295082 L27,5 Z" id="形状" stroke-opacity="0.45" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"></path>
+        </g>
+    </g>
+</svg>
